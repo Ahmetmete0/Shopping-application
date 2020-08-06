@@ -1,0 +1,24 @@
+Şekildeki gibi bir Windows Forms Uygulaması ile basit bir alışveriş sistemi tasarlanmak istenmektedir. Bu sistemde Ad, Marka, Model, Ozellik, StokAdedi, HamFiyat, SecilenAdet özelliklerini barındıran bir Urun sınıfı tanımlanmalıdır.  Urun sınıfından Buzdolabi, LedTv, CepTel ve Laptop isimli 4 sınıf türetilmelidir.
+Urun sınıfından miras alınan özelliklerin yanı sıra;
+
+Buzdolabı sınıfında
+•	IcHacim
+•	EnerjiSinifi 
+
+LedTv sınıfında
+•	EkranBoyutu
+•	EkranCozunurlugu
+
+CepTel Sınıfında
+•	DahiliHafiza
+•	RamKapasitesi
+•	PilGucu
+
+Laptop Sınıfında
+•	EkranBoyutu
+•	EkranCozunurluk
+•	DahiliHafiza
+•	RamKapasitesi
+•	PilGucu
+
+özeliklerinin olması istenmektedir.  
